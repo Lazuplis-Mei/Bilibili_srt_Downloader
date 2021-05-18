@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilibili_srt_Downloader", "Bilibili_srt_Downloader.csproj", "{8EB6C919-6A32-41EC-B07C-4293512DB746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB6C919-6A32-41EC-B07C-4293512DB746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB6C919-6A32-41EC-B07C-4293512DB746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB6C919-6A32-41EC-B07C-4293512DB746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB6C919-6A32-41EC-B07C-4293512DB746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD8E833-FDEB-4486-A209-89BF230820E8}
+	EndGlobalSection
+EndGlobal
